@@ -8,3 +8,7 @@ A repo more of Github!
 ### Creating an HTML file
 
 - Creating an HTML file
+
+```
+mkdir html-boilerplate
+```
