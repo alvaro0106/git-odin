@@ -11,7 +11,8 @@ A repo more of Github!
 
 ```
 mkdir html-boilerplate
-
+cd html-boilerplate
+touch index.html
 
 ```
 
