@@ -1,2 +1,2 @@
-Espero sirva la clave publica que renove ayer 
-Y seguimos con mas cambios.
+Siguiendo la guia de odin:
+https://www.theodinproject.com/lessons/foundations-html-boilerplate
