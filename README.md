@@ -23,7 +23,7 @@ In this lesson, we will learn about the text-based elements you are likely to us
 
 ### Lesson overview
 
--     How to create paragraphs.
+-    How to create paragraphs.
 -    How to create headings.
 -    How to create bold text.
 -    How to create italicized text.
