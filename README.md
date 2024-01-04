@@ -11,4 +11,21 @@ A repo more of Github!
 
 ```
 mkdir html-boilerplate
+
+
 ```
+
+## Working with Text 
+<sup> Most content on the web is text-based, so you will find yourself needing to work with HTML text elements quite a bit.
+
+In this lesson, we will learn about the text-based elements you are likely to use the most. </sup> 
+
+### Lesson overview
+
+-     How to create paragraphs.
+-    How to create headings.
+-    How to create bold text.
+-    How to create italicized text.
+-    The relationships between nested elements.
+-    How to create HTML comments.
+
